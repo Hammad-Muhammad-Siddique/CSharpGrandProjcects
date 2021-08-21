@@ -1,0 +1,7 @@
+C:\Users\Intel\source\repos\Grand Project 2 - Shape Calculations\bin\Debug\Grand Project 2 - Shape Calculations.exe.config
+C:\Users\Intel\source\repos\Grand Project 2 - Shape Calculations\bin\Debug\Grand Project 2 - Shape Calculations.exe
+C:\Users\Intel\source\repos\Grand Project 2 - Shape Calculations\bin\Debug\Grand Project 2 - Shape Calculations.pdb
+C:\Users\Intel\source\repos\Grand Project 2 - Shape Calculations\obj\Debug\Grand Project 2 - Shape Calculations.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\Grand Project 2 - Shape Calculations\obj\Debug\Grand Project 2 - Shape Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Grand Project 2 - Shape Calculations\obj\Debug\Grand Project 2 - Shape Calculations.exe
+C:\Users\Intel\source\repos\Grand Project 2 - Shape Calculations\obj\Debug\Grand Project 2 - Shape Calculations.pdb

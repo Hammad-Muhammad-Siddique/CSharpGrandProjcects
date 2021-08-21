@@ -1,0 +1,7 @@
+C:\Users\Intel\source\repos\Grand Project 3 - String Functions\bin\Debug\Grand Project 3 - String Functions.exe.config
+C:\Users\Intel\source\repos\Grand Project 3 - String Functions\bin\Debug\Grand Project 3 - String Functions.exe
+C:\Users\Intel\source\repos\Grand Project 3 - String Functions\bin\Debug\Grand Project 3 - String Functions.pdb
+C:\Users\Intel\source\repos\Grand Project 3 - String Functions\obj\Debug\Grand Project 3 - String Functions.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\Grand Project 3 - String Functions\obj\Debug\Grand Project 3 - String Functions.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Grand Project 3 - String Functions\obj\Debug\Grand Project 3 - String Functions.exe
+C:\Users\Intel\source\repos\Grand Project 3 - String Functions\obj\Debug\Grand Project 3 - String Functions.pdb

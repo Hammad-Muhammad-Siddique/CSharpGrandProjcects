@@ -1,0 +1,7 @@
+C:\Users\Intel\source\repos\Grand Project 1  - Math Functions\bin\Debug\Grand Project 1  - Math Functions.exe.config
+C:\Users\Intel\source\repos\Grand Project 1  - Math Functions\bin\Debug\Grand Project 1  - Math Functions.exe
+C:\Users\Intel\source\repos\Grand Project 1  - Math Functions\bin\Debug\Grand Project 1  - Math Functions.pdb
+C:\Users\Intel\source\repos\Grand Project 1  - Math Functions\obj\Debug\Grand Project 1  - Math Functions.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\Grand Project 1  - Math Functions\obj\Debug\Grand Project 1  - Math Functions.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Grand Project 1  - Math Functions\obj\Debug\Grand Project 1  - Math Functions.exe
+C:\Users\Intel\source\repos\Grand Project 1  - Math Functions\obj\Debug\Grand Project 1  - Math Functions.pdb

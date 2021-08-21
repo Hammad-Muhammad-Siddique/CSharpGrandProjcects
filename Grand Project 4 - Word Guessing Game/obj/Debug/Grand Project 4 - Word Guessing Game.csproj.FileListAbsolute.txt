@@ -1,0 +1,7 @@
+C:\Users\Intel\source\repos\Grand Project 4 - Word Guessing Game\bin\Debug\Grand Project 4 - Word Guessing Game.exe.config
+C:\Users\Intel\source\repos\Grand Project 4 - Word Guessing Game\bin\Debug\Grand Project 4 - Word Guessing Game.exe
+C:\Users\Intel\source\repos\Grand Project 4 - Word Guessing Game\bin\Debug\Grand Project 4 - Word Guessing Game.pdb
+C:\Users\Intel\source\repos\Grand Project 4 - Word Guessing Game\obj\Debug\Grand Project 4 - Word Guessing Game.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\Grand Project 4 - Word Guessing Game\obj\Debug\Grand Project 4 - Word Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Grand Project 4 - Word Guessing Game\obj\Debug\Grand Project 4 - Word Guessing Game.exe
+C:\Users\Intel\source\repos\Grand Project 4 - Word Guessing Game\obj\Debug\Grand Project 4 - Word Guessing Game.pdb
